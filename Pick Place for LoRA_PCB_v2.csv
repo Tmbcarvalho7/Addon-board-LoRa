@@ -1,0 +1,57 @@
+Altium Designer Pick and Place Locations
+\\douro\homes$\tiago.carvalho\Desktop\LoRA-v2\Project Outputs for LoRA_v2\Pick Place for LoRA_PCB_v2.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       08/07/22
+Time:       15:51
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"R7","250 Ohm","BottomLayer","RESC1005X35N","10.1600","1.2700","90",""
+"R6","1020 Ohm","BottomLayer","RESC1005X40N","8.2550","1.2700","90","Res Thick Film 0402 1.02K Ohm 1% 1/16W ±100ppm/°C Molded SMD SMD Paper T/R"
+"X*1","ECS-TXO-2520MV-320-AY-TR","TopLayer","OSCDFN250X200X89-4N","6.3500","3.8100","180","32MHz TCXO CMOS Oscillator 1.7V ~ 3.6V Enable/Disable 4-SMD, No Lead"
+"U3","AP7331","BottomLayer","SOT95P285X145-5N","12.7950","3.4900","180","Linear Voltage Regulator IC 1 Output 300mA SOT-25"
+"U2","SM1262IMLTRT","TopLayer","SX","13.3350","10.1600","0","IC RF TxRx Only General ISM < 1GHz LoRaWAN 150MHz ~ 960MHz 24-VFQFN Exposed Pad"
+"R5","100","TopLayer","RESC1005X40N","8.8900","26.0350","90","Res Thick Film 0402 100 Ohm 1% 1/16W ±100ppm/°C Molded SMD SMD Paper T/R"
+"R4","100","TopLayer","RESC1005X40N","6.9850","29.8450","90","Res Thick Film 0402 100 Ohm 1% 1/16W ±100ppm/°C Molded SMD SMD Paper T/R"
+"R3","220 Ohm","TopLayer","RESC1005X40N","8.8900","8.2550","270","Res Thick Film 0402 220 Ohm 5% 1/16W ±200ppm/°C Molded SMD SMD Paper T/R"
+"R2","0 Ohm","TopLayer","RESC1005X35N","18.4150","16.5100","90","0 Ohms Jumper 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Thick Film"
+"R1","0 Ohm","TopLayer","RESC1005X35N","5.7150","12.5000","270","0 Ohms Jumper 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Thick Film"
+"L7","15nH","TopLayer","INDC1006X60N","18.4150","13.9700","90","Inductor with Inductance: 15nH Tol. +/-3%, Package: 0402 (1005)"
+"L6","15uH","TopLayer","INDC2012X87N","15.8750","4.4450","90","Surface Mount High Frequency Inductor, MLZ Series, 15 H, 20%, 0805 [2012 Metric], 22 MHz"
+"L5","4.7nH","TopLayer","INDC1006X60N","6.9850","17.1450","270","INDUCTOR, 0402, 4.7NH; Inductor Type:Chip Coils; Inductance Tolerance:± 0.2nH; Resistance:0.07ohm; DC Current Max:750mA; Case Style:0402; Q Factor @ Vr, F:25; Core Material:Alumina; External Depth:0.6mm; External Length / ;RoHS Compliant: Yes"
+"L4","2.5nH","TopLayer","INDC1006X60N","12.0650","21.4150","90","Inductor with Inductance: 2.5nH Tol. +/-0.2nH, Package: 0402 _1005_"
+"L3","9.1nH","TopLayer","INDC1006X60N","21.5900","27.3050","270","Inductor with Inductance: 9.1nH Tol. +/-3%, Package: 0402 (1005)"
+"L2","TBD","TopLayer","INDC2012X87N","5.0800","8.7950","90",""
+"L1","47nH","TopLayer","INDC1005X60N","15.2400","17.1450","270","LQW15 Series 0402 47 nH ±5 % 210 mA 1.08 Ohm SMT Unshielded Wirewound Inductor"
+"J1","MM8030-2610RJ3","TopLayer","MURATA_MM8030-2610RJ3","15.8750","27.3050","180","SWG Connector Receptacle, Female Socket 50Ohm Surface Mount Solder"
+"FL1","BLM15PG100SN1D","TopLayer","BEADC1005X55N","12.7000","3.8100","270","FERRITE, BEAD, 0402, 0.025OHM, 1A"
+"C22","1nF","TopLayer","CAPC1005X56N","6.3500","26.0350","270","Ceramic Multilayer Capacitor; Capacitor Type:General Purpose; Capacitance:1000pF; Capacitance Tolerance:± 10%; Voltage Rating:10VDC; Capacitor Dielectric Type:Multilayer Ceramic; Package/Case:0402; Termination Type:SMD ;RoHS Compliant: Yes"
+"C21","1uF","BottomLayer","C0402","6.3500","1.2700","0","1µF ±10% 10V Ceramic Capacitor X5R 0402 _1005 Metric_"
+"C20","1uF","BottomLayer","C0402","15.8750","1.2700","0","1µF ±10% 10V Ceramic Capacitor X5R 0402 _1005 Metric_"
+"C19","1.8pF","TopLayer","WCAP-CSRF_885392005008","19.6850","11.4300","180","<b> WCAP-CSRF Radio Frequency MLCC <br> <br> <br><b>Characteristics </b><br> </b><br>Multilayer ceramic chip capacitor <br>Recommended soldering: Reflow <br>Operating temperature: -55 °C up to +125 °C <br>Capacitance range: 0.2 pF - 33 pF<br> Rated voltage: 25 V(DC) and 50 V(DC) <br>Size: 0201 and 0402 <br>High frequency  <br> <br> <br><b>Applications </b><br> <br>High frequency applications <br>Antenna matching  <br> <br> <br><a href="https://katalog.we-online.de/media/images/v2/Family_WCAP-CSRF.jpg" title="Enlarge picture"> <img src="https://katalog.we-online.de/media/images/v2/Family_WCAP-CSRF.jpg" width="320"></a><p> Details see: <a href="https://katalog.we-online.de/en/pbs/WCAP-CSRF#vs_ct:2">https://katalog.we-online.de/en/pbs/WCAP-CSRF#vs_ct:2<br> <br></a><p>Created By Yingchun,Shan 2018-11-14 <br><br>20178(C) Wurth Elektronik"
+"C18","0.1uF","TopLayer","WCAP-CSGP_885012205037","8.8900","3.8100","270","WCAP-CSGP General Purpose MLCC; SMT 0402; X7R; 100nF 10%; 16V; -55C to +125C; Tech. PN X7R0402104K016DFCT10000"
+"C17","0.1uF","TopLayer","WCAP-CSGP_885012205037","20.9550","3.1750","90","WCAP-CSGP General Purpose MLCC; SMT 0402; X7R; 100nF 10%; 16V; -55C to +125C; Tech. PN X7R0402104K016DFCT10000"
+"C16","1nF","TopLayer","CAPC1005X56N","5.0800","30.0550","90","Ceramic Multilayer Capacitor; Capacitor Type:General Purpose; Capacitance:1000pF; Capacitance Tolerance:± 10%; Voltage Rating:10VDC; Capacitor Dielectric Type:Multilayer Ceramic; Package/Case:0402; Termination Type:SMD ;RoHS Compliant: Yes"
+"C15","470nF","TopLayer","C0402","18.4150","3.6195","0","0.47µF ±10% 10V Ceramic Capacitor X5R 0402 (1005 Metric)"
+"C14","TBD","TopLayer","CAPC1005X55N","18.4150","19.0500","90",""
+"C13","2.4pF","TopLayer","CAPC1005X55N","20.3200","13.9700","90","2.4pF ±0.1pF 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)"
+"C12","39pF","TopLayer","CAPC1005X55N","3.1750","25.4000","90",""
+"C11","10pF","TopLayer","WCAP-CSGP_885012005055","6.9850","8.2550","270","<b> WCAP-CSGP Ceramic Capacitors <br> <br> <br><b>Characteristics </b><br> </b><br>Multilayer Ceramic Chip Capacitor <br>Recommended soldering:Reflow, for 0603 and 0805 wave soldering is also allowed <br>Operating temperature:-55 °C to +125 °C; <br>Ceramic characteristics: Class I - NPO ; Class II -X7R, X5R <br>High performance ceramic <br>High capacitance stability <br>Minimal aging  <br>Termination:Cu/Ni/Sn <br>   <br><a href="http://katalog.we-online.de/media/images/eisos/WCAP-CSGP_pf2.jpg" title="Enlarge picture"> <img src="http://katalog.we-online.de/media/thumbs2/eisos/thb_WCAP-CSGP_pf2.jpg" width="320"></a><p> Details see: <a href="http://katalog.we-online.de/en/pbs/WCAP-CSGP-0402?">http://katalog.we-online.de/en/pbs/WCAP-CSGP-0402? </a><p>Created:  2015-01-28 <br>2015 (C) Wurth Elektronik"
+"C10","3.3pF","TopLayer","WCAP-CSRF_885392005011","0.6350","25.5350","90","<b> WCAP-CSRF Radio Frequency MLCC <br> <br> <br><b>Characteristics </b><br> </b><br>Multilayer ceramic chip capacitor <br>Recommended soldering: Reflow <br>Operating temperature: -55 °C up to +125 °C <br>Capacitance range: 0.2 pF - 33 pF<br> Rated voltage: 25 V(DC) and 50 V(DC) <br>Size: 0201 and 0402 <br>High frequency  <br> <br> <br><b>Applications </b><br> <br>High frequency applications <br>Antenna matching  <br> <br> <br><a href="https://katalog.we-online.de/media/images/v2/Family_WCAP-CSRF.jpg" title="Enlarge picture"> <img src="https://katalog.we-online.de/media/images/v2/Family_WCAP-CSRF.jpg" width="320"></a><p> Details see: <a href="https://katalog.we-online.de/en/pbs/WCAP-CSRF#vs_ct:2">https://katalog.we-online.de/en/pbs/WCAP-CSRF#vs_ct:2<br> <br></a><p>Created By Yingchun,Shan 2018-11-14 <br><br>20178(C) Wurth Elektronik"
+"C9","2.2pF","TopLayer","CAPC1005X55N","5.0800","17.7800","270","CAP CER 2.2PF 50V C0G/NPO 0402"
+"C8","5.6pF","TopLayer","CAPC1005X55N","9.5250","21.5900","270","Cap Ceramic 5.6pF 50V C0G 0.25pF SMD 0402 125°C Paper T/R"
+"C7","TBD","TopLayer","CAPC1005X55N","20.3200","16.5100","90",""
+"C6","39pF","TopLayer","CAPC1005X55N","6.9850","19.6850","90",""
+"C5","1uF","TopLayer","C0402","8.2550","12.7000","0","1µF ±10% 10V Ceramic Capacitor X5R 0402 _1005 Metric_"
+"C4","0.1pF","TopLayer","CAPC1005X55N","14.6050","21.5900","270","0402 3.3 pF 50 V ±0.1 pF Tolerance NP0 SMT Multilayer Ceramic Capacitor"
+"C3","3.3pF","TopLayer","WCAP-CSRF_885392005011","19.0500","27.3050","90","<b> WCAP-CSRF Radio Frequency MLCC <br> <br> <br><b>Characteristics </b><br> </b><br>Multilayer ceramic chip capacitor <br>Recommended soldering: Reflow <br>Operating temperature: -55 °C up to +125 °C <br>Capacitance range: 0.2 pF - 33 pF<br> Rated voltage: 25 V(DC) and 50 V(DC) <br>Size: 0201 and 0402 <br>High frequency  <br> <br> <br><b>Applications </b><br> <br>High frequency applications <br>Antenna matching  <br> <br> <br><a href="https://katalog.we-online.de/media/images/v2/Family_WCAP-CSRF.jpg" title="Enlarge picture"> <img src="https://katalog.we-online.de/media/images/v2/Family_WCAP-CSRF.jpg" width="320"></a><p> Details see: <a href="https://katalog.we-online.de/en/pbs/WCAP-CSRF#vs_ct:2">https://katalog.we-online.de/en/pbs/WCAP-CSRF#vs_ct:2<br> <br></a><p>Created By Yingchun,Shan 2018-11-14 <br><br>20178(C) Wurth Elektronik"
+"C2","47pF","TopLayer","WCAP-CSGP_885012005059","12.7000","17.1450","270","<b> WCAP-CSGP Ceramic Capacitors <br> <br> <br><b>Characteristics </b><br> </b><br>Multilayer Ceramic Chip Capacitor <br>Recommended soldering:Reflow, for 0603 and 0805 wave soldering is also allowed <br>Operating temperature:-55 °C to +125 °C; <br>Ceramic characteristics: Class I - NPO ; Class II -X7R, X5R <br>High performance ceramic <br>High capacitance stability <br>Minimal aging  <br>Termination:Cu/Ni/Sn <br>   <br><a href="http://katalog.we-online.de/media/images/eisos/WCAP-CSGP_pf2.jpg" title="Enlarge picture"> <img src="http://katalog.we-online.de/media/thumbs2/eisos/thb_WCAP-CSGP_pf2.jpg" width="320"></a><p> Details see: <a href="http://katalog.we-online.de/en/pbs/WCAP-CSGP-0402?">http://katalog.we-online.de/en/pbs/WCAP-CSGP-0402? </a><p>Created:  2015-01-28 <br>2015 (C) Wurth Elektronik"
+"C1","0.047uF","TopLayer","CAPC1005X55N","10.1600","17.1450","270","SMD Capacitor X7R(EIA) with Capacitance: 47000pF Tol. 10%. Rated Voltage: 16Vdc"
+"U1","PE4259","TopLayer","PCBComponent_1","12.0650","27.0350","90","UltraCMOS® Switch, SPDT For Use With PE4259"
+"P2","61300811121","BottomLayer","61300811121","1.9050","11.4300","90","THT Vertical Pin Header WR-PHD, Pitch 2.54 mm, Single Row, 8 pins"
+"P1","61300811121","BottomLayer","61300811121","24.7650","11.4300","90","THT Vertical Pin Header WR-PHD, Pitch 2.54 mm, Single Row, 8 pins"
